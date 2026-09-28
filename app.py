@@ -12,3 +12,4 @@ print("Multiplication:", multiply(5, 4))
 def register_user(name):
     return f"User {name} registered successfully"
 
+
